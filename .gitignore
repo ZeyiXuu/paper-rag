@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# API keys and secrets - NEVER COMMIT THESE
+.env
+.env.local
+instruction.md
+
+# OS
+.DS_Store
+.DS_Store?
+
+# Generated data
+**/data/processed/
+
+# Jupyter
+.ipynb_checkpoints/

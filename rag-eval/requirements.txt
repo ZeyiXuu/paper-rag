@@ -1,0 +1,5 @@
+haystack-ai==2.28.0
+google-ai-haystack==5.4.0.post1
+groq==1.2.0
+pylatexenc==2.10
+sentence-transformers==5.4.1
